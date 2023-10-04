@@ -14,6 +14,7 @@ assets:
 data:
   applicationEnvironmentVariables:
     - MASTER_IP: 0
+    - PROTOCOL: "http"
     - MASTER_PORT: 0
     - SLAVE_WORK_DIR: 0
     - MASTER_SECRET: 0
