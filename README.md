@@ -4,7 +4,7 @@ This is a basic Jenkins image with Python 3.11 and OpenJRE 17 preinstalled.
 The device can run either as an agent or as a Jenkins master.
 Click on the button below for a one click install on your Balena dashboard.
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/kwmlodozeniec/balena-jenkins)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Xykon/balena-jenkins/tree/python3)
 
 # 🚨 Default SSH username and password
 
