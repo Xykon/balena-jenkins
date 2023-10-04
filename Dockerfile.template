@@ -12,7 +12,10 @@ RUN install_packages \
     vim \
     wget \
     redis-server \
-    lsof
+    lsof \
+    python3-pip \
+    python3-serial
+
 
 RUN mkdir /var/run/sshd \
     && echo 'root:balena' | chpasswd \
